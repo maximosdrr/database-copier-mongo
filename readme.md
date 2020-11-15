@@ -1,0 +1,7 @@
+Please create an .env file with the following settings:
+
+LOCAL_CONNECTION_URI=url_of_the_bank_to_be_copied
+CLOUD_CONNECTION_URI=url_of_the_bank_that_will_receive_the_data
+LOCAL_DB_NAME=name_of_the_bank_to_be_copied
+CLOUD_DB_NAME=name_of_the_bank_that_will_receive_the_data
+CODE_SLEEP=time_in_hours_for_the_code_to_run
